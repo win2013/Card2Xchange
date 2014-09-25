@@ -1,0 +1,7 @@
+MIDlet-1: PhoneClient2, , PhoneClient2
+MIDlet-Description: iCoffee application - pay for coffee with your iDEN phone!
+MIDlet-Jar-Size: 26126
+MIDlet-Jar-URL: PhoneClient2.jar
+MIDlet-Name: Phone Presentation
+MIDlet-Vendor: UF
+MIDlet-Version: 1.0.0
